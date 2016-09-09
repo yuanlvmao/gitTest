@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/AdapterViewAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/DataEngine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/Divider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/ListViewDemoActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/NormalModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/RecyclerViewAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/RecyclerViewDemoActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/shengmao/swipetest/SwipeItemActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_btn_orange.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_btn_red.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_item.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_listview.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_recyclerview.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_swipeitem.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_bgaswipe.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_bgaswipe_bak.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_bgaswipe_bak_gap.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v21" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
